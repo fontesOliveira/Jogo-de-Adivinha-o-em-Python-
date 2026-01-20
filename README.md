@@ -16,4 +16,4 @@
  └── main.py              # Arquivo principal que executa o jogo
  
 ##🔹 Tecnologias Utilizadas
-Python
+- Python
