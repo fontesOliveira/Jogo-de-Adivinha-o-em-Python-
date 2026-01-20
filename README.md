@@ -15,5 +15,5 @@
  ├── numeroEscolhido.py   # Classe que gerencia o número secreto
  └── main.py              # Arquivo principal que executa o jogo
  
-##🔹 Tecnologias Utilizadas
+## 🔹 Tecnologias Utilizadas
 - Python
